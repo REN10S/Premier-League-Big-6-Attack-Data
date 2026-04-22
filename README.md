@@ -21,10 +21,6 @@ Team shooting statistics sourced from FBref (Premier League squad stats).
 - Goals per shot (finishing efficiency)
 - Finishing Index (combined efficiency metric)
 
-## Key Findings
-- Some teams generate high shot volume but are less efficient in converting chances.
-- More efficient teams combine accuracy with strong conversion rates.
-- Attacking strength is influenced by both chance creation and finishing ability.
 
 ## Files
 - `PremBig6Attacks.py` – main analysis script
